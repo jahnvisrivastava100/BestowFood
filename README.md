@@ -39,7 +39,17 @@ BESTOWFOOD will allow:
 9.	NGOs will receive a confirmation Mail with a verification OTP.
 10.	NGOs can view their Food Request History.
 11.	NGOs can view the profiles of Volunteers and can even message them.
+<details open="open">
+ <summary><h1>Class Flow Diagram</h1></summary>
+    <ul>
+      <li> <img src="https://github.com/jahnvisrivastava100/BestowFood/blob/main/image/3.png"></li>
+      </ul>
+</details>
+<details open="open">
+ <summary><h1>Entity Relationship diagram</h1></summary>
+    <ul>
+      <li> <img src="https://github.com/jahnvisrivastava100/BestowFood/blob/main/image/2.jpg"></li>
+      </ul>
+</details>
 
- <h1>USE CASE DIAGRAM</h1>
- <img src="https://github.com/jahnvisrivastava100/BestowFood/blob/main/image/1.jpg">
 

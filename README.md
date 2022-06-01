@@ -15,7 +15,7 @@
 
 BESTOWFOOD will allow:
 
-<b>It allows Volunteers to:</b>
+<b>Volunteers</b>
 1.	A home page will redirect the user to avail the displayed functionalities.
 2.	On clicking the registration button, the user can register themselves as volunteer.
 3.	Volunteers can register themselves by filling details in registration form.
@@ -26,7 +26,7 @@ BESTOWFOOD will allow:
 8.	Volunteers can also view their personal profiles which will include the badges earned on the basis of their activeness on Bestow Food.
 9.	Volunteers can logout themselves.
 
-  <b>It allows NGOs to:</b>
+  <b>NGOs</b>
 
 1.	A home page will redirect the user to avail the displayed functionalities.
 2.	On clicking the registration button, the user can register themselves as volunteer.
@@ -40,15 +40,15 @@ BESTOWFOOD will allow:
 10.	NGOs can view their Food Request History.
 11.	NGOs can view the profiles of Volunteers and can even message them.
 <details open="open">
- <summary><h1>Class Flow Diagram</h1></summary>
+ <summary><h2>Class Flow Diagram</h2></summary>
     <ul>
-      <li> <img src="https://github.com/jahnvisrivastava100/BestowFood/blob/main/image/3.png"></li>
+       <img src="https://github.com/jahnvisrivastava100/BestowFood/blob/main/image/3.png" width="300px" height="600px">
       </ul>
 </details>
 <details open="open">
- <summary><h1>Entity Relationship diagram</h1></summary>
+ <summary><h2>Entity Relationship diagram</h2></summary>
     <ul>
-      <li> <img src="https://github.com/jahnvisrivastava100/BestowFood/blob/main/image/2.jpg"></li>
+     <img src="https://github.com/jahnvisrivastava100/BestowFood/blob/main/image/2.jpg" width="700px" height="400px">
       </ul>
 </details>
 

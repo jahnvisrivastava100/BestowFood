@@ -52,4 +52,10 @@ BESTOWFOOD will allow:
       </ul>
 </details>
 
+<details open="open">
+ <summary><h2>Glimpse of UI</h2></summary>
+    <ul>
+     <img src="https://github.com/jahnvisrivastava100/BestowFood/blob/main/image/ui.gif" width="700px" height="400px">
+      </ul>
+</details>
 

@@ -40,3 +40,6 @@ BESTOWFOOD will allow:
 10.	NGOs can view their Food Request History.
 11.	NGOs can view the profiles of Volunteers and can even message them.
 
+ <h1>USE CASE DIAGRAM</h1>
+ <img src="">
+

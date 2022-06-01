@@ -26,7 +26,7 @@ BESTOWFOOD will allow:
 8.	Volunteers can also view their personal profiles which will include the badges earned on the basis of their activeness on Bestow Food.
 9.	Volunteers can logout themselves.
 
-  <b>NGOs</b>
+<b>NGOs</b>
 
 1.	A home page will redirect the user to avail the displayed functionalities.
 2.	On clicking the registration button, the user can register themselves as volunteer.
@@ -60,4 +60,6 @@ BESTOWFOOD will allow:
 </details>
 <h2>Economic Feasibility</h2>
 In the fast-paced world today there is a great need for online website facilities, which can replace the manual existing system. It reduces the cost of hiring manpower to search for willing volunteers for donation of food. 
+<h2>Operational Feasibility</h2>
+Our Project solves the existing manual working of the NGOs to search for willing volunteers to donate food. It's much better than using the alternative solutions since all the requirements are met on one single platform rather than being scattered on all social media platforms.
 

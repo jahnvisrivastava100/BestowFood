@@ -42,7 +42,7 @@ BESTOWFOOD will allow:
 <details open="open">
  <summary><h2>Class Flow Diagram</h2></summary>
     <ul>
-       <img src="https://github.com/jahnvisrivastava100/BestowFood/blob/main/image/3.png" width="300px" height="600px">
+       <img src="https://github.com/jahnvisrivastava100/BestowFood/blob/main/image/4.png" width="300px" height="600px">
       </ul>
 </details>
 <details open="open">

@@ -39,23 +39,25 @@ BESTOWFOOD will allow:
 9.	NGOs will receive a confirmation Mail with a verification OTP.
 10.	NGOs can view their Food Request History.
 11.	NGOs can view the profiles of Volunteers and can even message them.
-<details open="open">
+<details open="close">
  <summary><h2>Class Flow Diagram</h2></summary>
     <ul>
        <img src="https://github.com/jahnvisrivastava100/BestowFood/blob/main/image/4.png" width="300px" height="600px">
       </ul>
 </details>
-<details open="open">
+<details open="close">
  <summary><h2>Entity Relationship diagram</h2></summary>
     <ul>
      <img src="https://github.com/jahnvisrivastava100/BestowFood/blob/main/image/2.jpg" width="700px" height="400px">
       </ul>
 </details>
 
-<details open="open">
+<details open="close">
  <summary><h2>Glimpse of UI</h2></summary>
     <ul>
      <img src="https://github.com/jahnvisrivastava100/BestowFood/blob/main/image/ui.gif" width="700px" height="400px">
       </ul>
 </details>
+<h2>Economic Feasibility</h2>
+In the fast-paced world today there is a great need for online website facilities, which can replace the manual existing system. It reduces the cost of hiring manpower to search for willing volunteers for donation of food. 
 

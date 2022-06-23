@@ -16,29 +16,16 @@
 BESTOWFOOD will allow:
 
 <b>Volunteers</b>
-1.	A home page will redirect the user to avail the displayed functionalities.
-2.	On clicking the registration button, the user can register themselves as volunteer.
-3.	Volunteers can register themselves by filling details in registration form.
-4.	Volunteers can login themselves. 
-5.	Volunteers can add the food cards by uploading the details of food availability like quantity, date, start time, end time and location.
-6.	Volunteers can view their added food cards through the cart.
-7.	Once the NGO makes a food request, the Volunteers will receive a Confirmation mail with a verification OTP.
-8.	Volunteers can also view their personal profiles which will include the badges earned on the basis of their activeness on Bestow Food.
-9.	Volunteers can logout themselves.
-
+* Can add availability of food.
+* Can remove availability of food
+* Can view/share their public  profile.
+* Will receive achievement badges as per the number of contributions made by them.
+ 
 <b>NGOs</b>
-
-1.	A home page will redirect the user to avail the displayed functionalities.
-2.	On clicking the registration button, the user can register themselves as volunteer.
-3.	NGOs can register themselves by filling details in registration form.
-4.	NGOs can login themselves. 
-5.	NGOs can view the food availability added by the Volunteers according to their location and need.
-6.	NGOs can filter the food availability based on Pin Code of the area.
-7.	NGOs can then make a request for the food added by the particular Volunteer.
-8.	NGOs can Confirm the request.
-9.	NGOs will receive a confirmation Mail with a verification OTP.
-10.	NGOs can view their Food Request History.
-11.	NGOs can view the profiles of Volunteers and can even message them.
+* Can view availability of food
+* Can place food request.
+* Can view volunteers public profile
+* Can track their recent food requests
 <details open="close">
  <summary><h2>Class Flow Diagram</h2></summary>
     <ul>
